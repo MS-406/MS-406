@@ -244,16 +244,6 @@ Areas:
 
 ---
 
-## 🐍 My Contribution Graph
-
-<p align="center">
-
-![Snake animation](https://raw.githubusercontent.com/MS-406/MS-406/output/github-contribution-grid-snake.svg)
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
