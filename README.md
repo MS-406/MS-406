@@ -1,18 +1,283 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>I'm **Meera Sharma**, a Computer Engineering student at **G. H. Patel College of Engineering and Technology (GCET)** with an **8.82/10 CGPA**, focused on **AI/ML, Data Science, Computer Vision, and Full-Stack Development**.<br><br>🔹 Experienced in building end-to-end machine learning systems through my **Data Science & Analytics internship at Zidio Development**.<br><br>🔹 Interested in **Deep Learning and Applied AI research**, with a research manuscript on **solar flare prediction using ConvNeXt, BiLSTM, and multimodal fusion** currently under review at **IEEE GSCON 2027**.<br><br>🔹 Built **NumiIT**, an AI-powered computer vision application for **ancient Indian coin recognition and Brahmi inscription analysis** using PyTorch and YOLO.<br><br>🔹 I also enjoy building full-stack systems using **React, FastAPI, Node.js, PostgreSQL, and Firebase**, and exploring **MLOps, Generative AI, and intelligent applications**.<br><br>🔹 Outside academics, I have contributed to student communities through **CSI GCET** and helped coordinate a **70-member Odoo × GCET Hackathon team**.<br><br>### 🎯 Currently<br>- 🤖 Building AI/ML & Computer Vision projects<br>- 🔬 Exploring applied deep learning research<br>- 📊 Working with Data Science & MLOps<br>- 🌐 Building scalable full-stack applications<br>- 🚀 Looking for opportunities to learn, research, and build impactful technology
+# 👋 Hey, I'm Meera Sharma
 
+### `Computer Engineering Student` • `AI/ML Enthusiast` • `Computer Vision Researcher` • `Full-Stack Developer`
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/meera-sharma466) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meera.sharma.4626@gmail.com) 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MS-406&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MS-406&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MS-406&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MS-406&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm **Meera Sharma**, a Computer Engineering student at **G. H. Patel College of Engineering & Technology (GCET)** with an **8.82/10 CGPA**.
+
+I enjoy building systems at the intersection of **Artificial Intelligence, Computer Vision, Data Science, and Software Engineering** — from research experiments and ML pipelines to full-stack applications.
+
+* 🤖 Building **AI/ML & Computer Vision** systems
+* 🔬 Exploring **Applied Deep Learning & AI Research**
+* 📊 Working with **Data Science, ML pipelines & MLOps**
+* 🌐 Building **full-stack & intelligent applications**
+* 🧠 Exploring **Generative AI & RAG-based systems**
+* 🚀 Interested in turning research ideas into practical products
 
 ---
-[![](https://komarev.com/ghpvc/?username=MS-406&icon=4&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Work On
+
+```text
+AI / ML
+├── Machine Learning
+├── Deep Learning
+├── Computer Vision
+├── Data Science
+├── Generative AI
+└── MLOps
+
+Software Engineering
+├── Full-Stack Development
+├── Backend Development
+├── Mobile Development
+├── REST APIs
+└── Database Systems
+
+Research
+├── Applied AI
+├── Deep Learning
+├── Multimodal Learning
+└── Intelligent Systems
+```
+
+---
+
+## 🔬 Research
+
+### ☀️ Solar Flare Prediction
+
+Research manuscript exploring **solar flare prediction using deep learning and multimodal fusion**.
+
+**Approach:**
+
+* ConvNeXt
+* BiLSTM
+* Multimodal Fusion
+* Deep Learning
+* Time-Series Modeling
+
+📄 **Status:** Under Review — IEEE GSCON 2027
+
+---
+
+## 🚀 Featured Projects
+
+### 🪙 NumiIT — Ancient Indian Coin Recognition
+
+An AI-powered computer vision application for **ancient Indian coin recognition and Brahmi inscription analysis**.
+
+**Highlights**
+
+* 🧠 Deep-learning based coin recognition
+* 🔍 Object detection using YOLO
+* 🏛️ Ancient Indian script analysis
+* 🔤 Brahmi inscription recognition
+* 🌐 Full-stack AI architecture
+* 📱 Cross-platform application
+
+**Tech:** PyTorch • YOLO • OpenCV • Python • Flutter • FastAPI • PostgreSQL
+
+---
+
+### 🟢 Green Hydrogen Infrastructure Mapping
+
+A GIS-based platform for mapping and analyzing **green hydrogen infrastructure**, integrating renewable-energy and demand-related data.
+
+**Tech:** Next.js • React • TypeScript • Tailwind CSS • Leaflet.js • FastAPI • Python
+
+---
+
+### ⚖️ Veridica — Explainable AI for Indian Law
+
+An AI research concept focused on **explainable legal decision support using Hybrid Retrieval-Augmented Generation (RAG)** for Indian legal information.
+
+**Focus:**
+`RAG` • `NLP` • `LLMs` • `Explainable AI` • `Information Retrieval`
+
+---
+
+## 💻 Tech Stack
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+**Python • PyTorch • TensorFlow • Keras • Scikit-learn • OpenCV • NumPy • Pandas • SciPy • Matplotlib • CUDA • MLflow • YOLO**
+
+---
+
+### 📊 Data Science & Analytics
+
+**NumPy • Pandas • SciPy • Matplotlib • Scikit-learn • TensorFlow • Keras • PyTorch • MLflow**
+
+Areas:
+
+`Data Analysis` • `Data Visualization` • `Machine Learning` • `Deep Learning` • `Model Training` • `Model Evaluation` • `MLOps`
+
+---
+
+### 🌐 Frontend Development
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+</p>
+
+**HTML5 • CSS3 • JavaScript • TypeScript • React • React Native • Next.js • Flutter • Dart • Bootstrap • Tailwind CSS**
+
+---
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+</p>
+
+**FastAPI • Node.js • Express.js • Java • Hibernate • Apache Tomcat • Socket.io • REST APIs • JWT**
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+</p>
+
+**PostgreSQL • MySQL • MongoDB • SQLite • Firebase • Supabase**
+
+---
+
+### ☁️ Cloud, DevOps & Deployment
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+**Docker • Git • GitHub • GitHub Actions • Netlify • Firebase • Supabase • CUDA**
+
+---
+
+### 🛠️ Languages
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+</p>
+
+**C • C++ • Java • Python • JavaScript • TypeScript • Dart**
+
+---
+
+### 🎨 Design & Development Tools
+
+**Canva • Figma • Git • GitHub • CMake • Nodemon**
+
+---
+
+## 🧩 Technologies I've Worked With
+
+| Category                 | Technologies                                                       |
+| ------------------------ | ------------------------------------------------------------------ |
+| **Languages**            | C, C++, Java, Python, JavaScript, TypeScript, Dart                 |
+| **AI / ML**              | PyTorch, TensorFlow, Keras, Scikit-learn, YOLO, OpenCV             |
+| **Data Science**         | NumPy, Pandas, SciPy, Matplotlib                                   |
+| **MLOps**                | MLflow                                                             |
+| **Frontend**             | HTML5, CSS3, React, React Native, Next.js, Bootstrap, Tailwind CSS |
+| **Mobile**               | Flutter, Dart, React Native                                        |
+| **Backend**              | FastAPI, Node.js, Express.js, Java, Hibernate                      |
+| **APIs / Communication** | REST APIs, JWT, Socket.io                                          |
+| **Databases**            | PostgreSQL, MySQL, MongoDB, SQLite                                 |
+| **Backend Services**     | Firebase, Supabase                                                 |
+| **Deployment / Cloud**   | Netlify, Firebase                                                  |
+| **DevOps**               | Docker, GitHub Actions                                             |
+| **Systems / Build**      | CMake, Apache Tomcat, Nodemon                                      |
+| **GPU / Compute**        | CUDA                                                               |
+| **Design**               | Figma, Canva                                                       |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=MS-406&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=MS-406&theme=dark&hide_border=false" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MS-406&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+
+</p>
+
+---
+
+## 🐍 My Contribution Graph
+
+<p align="center">
+
+![Snake animation](https://raw.githubusercontent.com/MS-406/MS-406/output/github-contribution-grid-snake.svg)
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/meera-sharma466">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:meera.sharma.4626@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MS-406">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 💭
+
+> **Build. Research. Experiment. Repeat.**
+
+⭐ *Thanks for visiting my profile!*
+
+<!-- Proudly created and customized for MS-406 -->
