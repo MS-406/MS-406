@@ -228,7 +228,7 @@ Areas:
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=MS-406&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
 
@@ -240,7 +240,10 @@ Areas:
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MS-406&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 
-</p>
+</p> -->
+![](https://github-readme-stats.shion.dev/api?username=MS-406&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MS-406&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MS-406&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
